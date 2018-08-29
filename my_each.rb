@@ -5,4 +5,5 @@ def my_each(array)
   
   counter = counter.next 
 end 
+array 
 end
